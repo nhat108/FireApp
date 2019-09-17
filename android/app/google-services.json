@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473494816156",
+    "firebase_url": "https://tribal-pillar-240009.firebaseio.com",
+    "project_id": "tribal-pillar-240009",
+    "storage_bucket": "tribal-pillar-240009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473494816156:android:ca2344fefa09fb6d",
+        "android_client_info": {
+          "package_name": "com.example.fire_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473494816156-6l4ca6f6oueu9t8q5984iq9hrj58rnui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire_task",
+            "certificate_hash": "a3ad82588e269d5fc47b072d5e3e328e1f2f78ac"
+          }
+        },
+        {
+          "client_id": "473494816156-b4u6cfs3an6k8rdsej7ijh3vvlvkstvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Zs6v0IkIVLd4L06Ab_3X-3VLOyZog3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473494816156-b4u6cfs3an6k8rdsej7ijh3vvlvkstvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
